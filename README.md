@@ -2,6 +2,11 @@
 
 Este es un proyecto de red social con autenticación JWT, publicaciones y likes, construido con Node.js, Express, Prisma, React y Docker.
 
+## Demostración y pruebas
+[Video de demostración 1](https://www.loom.com/share/a41784f9aaa149ccaa66b5b6894a3daf?sid=4f66fb92-89e3-47f4-a9ec-d8bef4566b25)
+[Video de demostración 2](https://www.loom.com/share/44b2ee6f2fd14f278c4163a9ac0dd2a8?sid=800d9ba5-e1ab-445d-ae65-a3a10b9e9809)
+
+
 ## 📌 Tecnologías usadas
 - **Backend:** Node.js, Express.js, Prisma ORM, PostgreSQL
 - **Frontend:** React, Context API
